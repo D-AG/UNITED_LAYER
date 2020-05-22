@@ -1,0 +1,8 @@
+**The output formatting(allignment) depends upon the console(screen) size **
+**no need to download/import any extra libraries**
+**give "cost/night" value between 0-10 for better comprehension**
+
+Thank You.
+
+angarajgautam@gmail.com
+
