@@ -79,7 +79,7 @@ while(coh!=0):
            counter=0
            print(": HOTEL NAME : ROOM NUMBER :  AIR CONDITIONING  : BREAKFAST  :  TELEVISION   : WIFI  : Cost/night($):")
            for b in range(0,(n+2)):
-               if(cost <= rooms1[b][6]):
+               if(cost >= rooms1[b][6]):
                    
                    print(":",rooms1[b][0],""*(13-len(str(rooms1[b][0]))),":",rooms1[b][1],""*(13-len(str(rooms1[b][1]))),":",rooms1[b][2],""*(20-len(str(rooms1[b][2]))),":",rooms1[b][3],""*(12-len(str(rooms1[b][3]))),":",rooms1[b][4],""*(15-len(str(rooms1[b][4]))),":",rooms1[b][5],""*(7-len(str(rooms1[b][5]))),":",rooms1[b][6],""*(12-len(str(rooms1[b][6]))),":")
                    # print(rooms1[b])
