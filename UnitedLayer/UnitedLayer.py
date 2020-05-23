@@ -85,7 +85,7 @@ while(coh!=0):
                    # print(rooms1[b])
                    counter=1
            ex=input("Press any key to continue..")
-           if(counter==0):
+           if counter==0:
                    print("No Hotels found accoeding to your budget")
                    ex=input("Press any key to continue\n")
                     
